@@ -1,0 +1,67 @@
+.buy-now-form {
+    display: flex;
+    flex-direction: column;
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+}
+  
+.buy-now-form div {
+    margin-bottom: 10px;
+}
+  
+.buy-now-form label {
+    margin-bottom: 5px;
+    display: block;
+}
+  
+.buy-now-form input[type="text"],
+.buy-now-form input[type="email"],
+.buy-now-form input[type="tel"],
+.buy-now-form textarea,
+.buy-now-form select {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+}
+  
+.buy-now-form button {
+    padding: 10px 20px;
+    background-color: black;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+  
+.buy-now-form button:hover {
+    background-color: #45a049;
+}
+
+.form-message {
+    color:rgb(136, 0, 255); 
+    margin-top: 20px;
+    padding: 10px; 
+    border: 1px solid rgb(136, 0, 255); 
+    border-radius: 10px; 
+    background-color: rgba(136, 0, 255, 0.1); 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+    width: auto; 
+    text-align: center; 
+    box-sizing: border-box; 
+}
+
+.error {
+    color: red;
+    font-size: 0.875rem;
+}
+
+.required-text{
+    color: red;
+    font-size: 0.87rem;
+}
+  
+
+
+
+
+

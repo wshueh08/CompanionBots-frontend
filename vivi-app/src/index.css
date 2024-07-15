@@ -1,0 +1,15 @@
+*, *::before, *::after{
+  box-sizing: border-box;
+}
+
+html, body{
+  height: 100%;
+  margin: 0;
+  background-image: linear-gradient(to right, #ff7e5f, #edffc8, #6dd5ed, #f7797d);
+  font-family: sans-serif, Arial;
+}
+
+:root{
+  height: 100%;
+}
+

@@ -1,0 +1,94 @@
+dialog{
+    color:white;
+    background-color: black;
+}
+
+.modal-content {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin: auto;
+}
+
+.modal-header, .modal-body, .modal-footer {
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.modal-body {
+    flex-direction: column;
+}
+
+.modal-body label, .modal-body input {
+    margin: 5px;
+    width: 100%; 
+}
+
+.modal-footer {
+    flex-direction: row; 
+    justify-content: flex-start;
+    margin-left: -10px; 
+}
+
+.button-style, .link-style {
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 15px; 
+    border-radius: 5px;
+    transition: background-color 0.3s, color 0.3s;
+    width: auto; 
+    margin-right: 10px; 
+}
+
+
+
+@media (min-width: 50rem) {
+    
+    .modal-header {
+        margin-left: 5px; 
+        margin-top: 20px;
+        font-size: 1.2rem;  
+    }
+    
+    .modal-body {
+        flex-direction: row;
+        justify-content: flex-start;
+    }
+    
+    .modal-body label, .modal-body input {
+        margin: 5px;
+    }
+    
+    .modal-footer {
+        justify-content: space-between; 
+    }
+    
+    .button-style, .link-style {  
+        padding: 10px 20px;  
+        font-size: 0.9rem; 
+    }
+    
+    .button-style:hover, .button-style:active,
+    .link-style:hover, .link-style:active {  
+        background-color: #0056b3;  
+        color: white; 
+    }
+    
+    .button-style:active, .link-style:active { 
+        background-color: #004494;  
+    }
+    
+    .modal-body input {
+        width: 200px; 
+    }
+
+}
+
+
+
+
+

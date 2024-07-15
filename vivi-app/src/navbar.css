@@ -1,0 +1,75 @@
+@import url('https://unpkg.com/css.gg@2.0.0/icons/css/menu.css');
+
+
+.nav-bar {
+    position: relative;
+}
+
+.menu-icon {
+    display: block; 
+    cursor: pointer;
+    position: fixed; 
+    top: 130px;
+    right: 30px; 
+    z-index: 1010;  
+}
+
+.nav-bar__list {
+    display: none;
+    flex-direction: column;
+    position: fixed;
+    list-style-type: none;
+    padding: 0;
+    margin: 0 auto;
+    top: 150px;
+    right: 20px;
+    width: 200px;
+    z-index:1000;
+
+    background: rgba(102, 50, 180, 0.5);
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur(15px);
+    -webkit-backdrop-filter: blur( 15px );
+    border-radius: 10px;
+}
+
+.nav-bar__list.open{
+    display: flex;
+}
+
+.nav-bar__item {
+    text-align: center; 
+}
+
+.nav-bar__link {
+    display: block;
+    color: #030d17; 
+    text-decoration: none; 
+    padding: 0.5rem 1rem; 
+}
+  
+.nav-bar__link:hover, .nav-bar__link:focus {
+    text-decoration: none; 
+    color: #0f0cce; 
+}
+
+
+
+@media (min-width: 50rem) { 
+
+    .menu-icon {
+        display: none; 
+    }
+
+    .nav-bar__list {
+        display: flex;
+        flex-direction: row; 
+        position: static; 
+        background-color: transparent; 
+        width: auto;
+    }
+    
+    .nav-bar__item {
+        flex-grow: 1;
+    }
+}

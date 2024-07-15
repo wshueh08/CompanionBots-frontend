@@ -1,0 +1,30 @@
+.button-style {
+    background-color: black; 
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    text-align: center;
+    transition: background-color 0.3s;
+}
+
+.button-style:hover {
+    background-color: #0056b3; 
+}
+  
+
+.link-style {
+    background-color: transparent;
+    color: #de7f19;
+    border: none;
+    padding: 5px 0;
+    cursor: pointer;
+    font-size: 1rem;
+    text-decoration: underline;
+}
+  
+.link-style:hover {
+    color: #06172a;
+}

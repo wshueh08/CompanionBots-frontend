@@ -1,0 +1,15 @@
+Header image:
+https://images.unsplash.com/photo-1680783954745-3249be59e527?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTI2fHxyb2JvdHxlbnwwfHwwfHx8MA%3D%3D
+
+Home page images:
+male robot: https://images.unsplash.com/photo-1622557686849-35af877972aa?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTl8fHJvYm90fGVufDB8fDB8fHww
+female robot:https://images.unsplash.com/photo-1625314868143-20e93ce3ff33?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzF8fHJvYm90fGVufDB8fDB8fHww
+kid robot: https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODJ8fGtpZCUyMHJvYm90fGVufDB8fDB8fHww
+pet robot: https://images.unsplash.com/photo-1559715541-d4fc97b8d6dd?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTExfHxyb2JvdHxlbnwwfHwwfHx8MA%3D%3D
+
+Store Location:
+new york: https://images.unsplash.com/photo-1546436836-07a91091f160?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bmV3JTIweW9yayUyMGNpdHl8ZW58MHx8MHx8fDI%3D
+los angeles: https://images.unsplash.com/photo-1597982087634-9884f03198ce?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8bG9zJTIwYW5nZWxlcyUyMGNpdHl8ZW58MHx8MHx8fDI%3D
+
+FAQ image: 
+https://images.unsplash.com/photo-1558196750-dd70dae770d2?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDQ4fHxyb2JvdHxlbnwwfHwwfHx8MA%3D%3D
